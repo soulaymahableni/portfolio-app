@@ -11,7 +11,7 @@ export default function Home() {
         <p className="tag">DevOps & Cloud</p>
         <h1>Soulayma</h1>
         <p className="sous-titre">Étudiante en DevOps — automatisation, déploiement et infrastructure.</p>
-        <p className="version">Version 1.0</p>
+    <p className="version">Version 2.0</p>
       </header>
 
       <section>
